@@ -1,4 +1,4 @@
-
+Enhance Cyberduck for macOS with rare Plugin for Cyberduck for macOS - file-encryption and permission-management, the #1 plugin. Includes file-encryption and permission-management
 
 
 
